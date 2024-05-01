@@ -23,7 +23,7 @@ header{
         font-size: 1.5rem;
     }
 }
-a{
+div a{
   display: table;
   margin: 0 auto;
   padding: 0;
